@@ -37,6 +37,6 @@ echo "<br>";
 echo $MesinCuci->Merek;
 echo "<br>";
 echo $MesinCuci->Harga;
-echo"<br>";
+echo"<br>"; 
 echo $MesinCuci ->PesanProduk();
 ?>
