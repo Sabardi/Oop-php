@@ -20,7 +20,4 @@ class Produk{
 $tv = new Produk();
 $kulkas = new Produk();
 $mobil = new Produk();
-$tv->PrdukNya("tv");
-$kulkas->PrdukNya("kulkasl");
-$mobil->PrdukNya("apel");
 ?>
