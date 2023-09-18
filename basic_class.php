@@ -20,4 +20,5 @@ class Produk{
 $tv = new Produk();
 $kulkas = new Produk();
 $mobil = new Produk();
+//
 ?>
